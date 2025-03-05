@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kamrul Hassan</h1>
+<h1 align="center">Hi 👋, I'm Qomarul Hasan</h1>
 <h3 align="center">A student of the web development world.</h3>
 <img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/142052078?v=4">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulhasanio&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulhasanio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulhasanio&label=Profile%20views&color=0e75b6&style=flat" alt="qomarhsn" /> </p>
 
 - 🔭 I’m currently working on **Skill Development**
 
