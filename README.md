@@ -1,13 +1,16 @@
+<div align="center">
+  Salamun ala manittabal huda
+</div>
 
 
-### Hi there 👋
+### Hi there! I am Qomarul Hasan
 
 #### I’m a full-time learner and part-time Linux, FOSS, and tech enthusiast.
 
 Currently, I’m **learning web development**, focusing on **React** and **Next.js** to build interactive web apps. In my free time, I enjoy exploring **open-source projects**, contributing whenever I can, experimenting, building small projects, and sharing my thoughts on my blog.
 
 **Tools & Technologies:** `C`, `C++`, `JavaScript`, `HTML`, `CSS`, `Tailwind CSS`, `Linux Fedora`, `VSCodium`
- 
+
 <a href="https://t.me/qomarhsn" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
@@ -23,5 +26,3 @@ Currently, I’m **learning web development**, focusing on **React** and **Next.
 <a href="https://blog.qomarhsn.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-BLOG-FF4088?style=flat-square&logo=hugo&logoColor=white" alt="Blog" />
 </a>
-
-
