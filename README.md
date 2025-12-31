@@ -1,15 +1,12 @@
+
+
 ### Hi there 👋
 
 #### I’m a full-time learner and part-time Linux, FOSS, and tech enthusiast.
 
-Currently, I’m learning **data structures** with plans to move on to **algorithms** next to build strong problem-solving skills.  
-I enjoy building simple web projects using clean, open tools.  
-I share my journey, tips, and tech thoughts on [my blog](https://blog.qomarhsn.com).
+Currently, I’m **learning web development**, focusing on **React** and **Next.js** to build interactive web apps. In my free time, I enjoy exploring **open-source projects**, contributing whenever I can, experimenting, building small projects, and sharing my thoughts on my blog.
 
-- 🧠 Skills: `HTML`, `CSS`, `Tailwind CSS`, `basic JavaScript`, `C`, and `C++`  
-- 🌱 Learning: **Data Structures**, next target is **Algorithms**  
-- 💻 Tools: `Linux Fedora` as my OS and `VSCodium` as my code editor  
-- 💬 Feel free to ping me about **Linux**, **tech topics**, or **programming**
+**Tools & Technologies:** `C`, `C++`, `JavaScript`, `HTML`, `CSS`, `Tailwind CSS`, `Linux Fedora`, `VSCodium`
  
 <a href="https://t.me/qomarhsn" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
