@@ -1,5 +1,5 @@
 <div align="center">
-  Salamun ala manittabal huda
+  السلام عليكم ورحمة الله وبركاته
 </div>
 
 
