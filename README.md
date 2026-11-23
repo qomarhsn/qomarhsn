@@ -4,13 +4,12 @@
 
 ### Hi there, I'm Qomarul Hasan 👋
 
-Software engineer building performant software and modern web apps with AI agents — from C/C++ systems code to TypeScript frontends. Linux, open source, and tooling for Bengali speakers are my favorite kinds of problem.
+Software engineer building performant software and modern web apps with AI agents — from C/C++ systems code to TypeScript frontends. Linux and open source are my favorite kinds of problem.
 
-- 🔭 Maintaining [Khipro](https://github.com/KhiproTeam/khipro-windows-portable) — a compositional Bangla IME for Windows
-- ⚡ Co-developing [Muajjin](https://github.com/MuslimTechnician/muajjin) — a privacy-first prayer-times app, computed on-device
-- 🧱 Taking client work — WordPress themes with integrated stores, Astro frontends
-- 📚 Studying Fiqh specialization & Takmil Hadith
-- 💬 Ask me about Bangla computing, IMEs, Fedora Linux, or building with AI agents
+- 🤝 Volunteer Software Engineer at [KhiproTeam](https://github.com/KhiproTeam) — the software side of the Khipro compositional Bangla layout
+- ⚡ Volunteer Developer at [MuslimTechnician](https://github.com/MuslimTechnician) — co-developed [Muajjin](https://github.com/MuslimTechnician/muajjin), a privacy-first prayer-times Android app
+- 🧱 Taking client work — performant software, modern web apps & intelligent tools
+- 💬 Ask me about software engineering, working with AI agents, open source & Linux FOSS
 
 <div align="center">
   <a href="https://qomarhsn.com" target="_blank" rel="noopener noreferrer">
